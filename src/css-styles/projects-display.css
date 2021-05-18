@@ -1,0 +1,39 @@
+.projects-container {
+  min-width: 100%;
+  height: 80vh;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+/* div,label,img,p */
+
+.project-card {
+  background-color: #fb4303;
+  min-width: 50%;
+  border: 5px solid black;
+  text-align: center;
+}
+
+.project-card label {
+  padding: 4px 0px;
+  font-size: 3.5rem;
+  max-width: 400px;
+  margin: 0px auto;
+  background-color: white;
+  display: block;
+}
+.project-card img {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  border: 8px solid black;
+  cursor: pointer;
+}
+
+.project-card p {
+  padding: 8px;
+  max-width: 550px;
+  margin: auto;
+  overflow-y: auto;
+  font-size: 1.5rem;
+  background-color: rgba(230, 153, 153, 0.816);
+}
