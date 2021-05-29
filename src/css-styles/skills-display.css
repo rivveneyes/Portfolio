@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+  font-size: 2.2rem;
+}
+.skills-container {
+  /* text-align: center; */
+  display: flex;
+  justify-content: space-evenly;
+  background-color: blue;
+  color: white;
+}
+ol {
+  border: 3px solid red;
+}

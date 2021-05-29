@@ -1,32 +1,36 @@
 .projects-container {
-  min-width: 100%;
-  height: 80vh;
-  display: inline-flex;
-  flex-wrap: wrap;
+  /* display: inline-flex;
+  flex-wrap: wrap; */
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #e0ffff;
+  grid-gap: 10px;
+  padding: 20px 60px 10px;
 }
-/* div,label,img,p */
 
 .project-card {
-  background-color: #fb4303;
-  min-width: 50%;
+  width: 100%;
+  min-width: 40%;
+  height: 100%;
+  margin: auto;
+  background-color: #e30d5b;
   border: 5px solid black;
   text-align: center;
 }
 
 .project-card label {
   padding: 4px 0px;
-  font-size: 3.5rem;
-  max-width: 400px;
+  font-size: 2.5rem;
   margin: 0px auto;
   background-color: white;
   display: block;
 }
 .project-card img {
-  width: 500px;
+  max-width: 80%;
   height: 300px;
-  margin: auto;
-  border: 8px solid black;
+  border: 5px solid black;
   cursor: pointer;
+  padding: 5px;
 }
 
 .project-card p {

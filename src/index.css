@@ -5,8 +5,11 @@
   list-style-type: none;
 }
 body {
-  padding: 10px;
+  height: 100%;
+  width: 100%;
+  padding: 0 10px;
 }
 
 @import "css-styles/navbar.css";
+@import "css-styles/skills-display.css";
 @import "css-styles/projects-display.css";

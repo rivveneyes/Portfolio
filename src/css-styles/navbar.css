@@ -1,6 +1,7 @@
 .navbar-container {
   background-color: #0be5da;
-  height: 150px;
+  margin-top: 10px;
+  padding-bottom: 5px;
 }
 .header-name {
   padding-top: 10px;
@@ -15,11 +16,16 @@
 }
 button {
   color: white;
-  display: inline-block;
   cursor: pointer;
   font-size: 1.5rem;
   margin: 0px 5px;
+  padding: 5px;
   background-color: #fb4303;
-  text-decoration: none;
   text-align: center;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+button:active {
+  border: 2px solid black;
+  opacity: 0.8;
 }
