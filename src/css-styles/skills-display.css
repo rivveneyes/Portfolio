@@ -1,14 +1,20 @@
+.skills-container {
+  background-color: var(--third-color);
+}
 .heading {
   text-align: center;
   font-size: 2.2rem;
 }
-.skills-container {
-  /* text-align: center; */
+.skills-display {
+  width: 70%;
+  margin: auto;
   display: flex;
   justify-content: space-evenly;
-  background-color: blue;
-  color: white;
+  background-color: #fff;
 }
 ol {
-  border: 3px solid red;
+  margin: 30px;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #000;
 }

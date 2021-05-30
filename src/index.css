@@ -4,6 +4,11 @@
   padding: 0px;
   list-style-type: none;
 }
+:root {
+  --primart-color: #0be5da;
+  --secondary-color: #e30d5b;
+  --third-color: #e0ffff;
+}
 body {
   height: 100%;
   width: 100%;
