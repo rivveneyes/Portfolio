@@ -18,3 +18,14 @@ ol {
   line-height: 1.5;
   color: #000;
 }
+
+@media (max-width: 400px) {
+  body {
+    margin: auto;
+    text-align: center;
+  }
+  .skills-display {
+    display: grid;
+    grid-template-rows: auto;
+  }
+}

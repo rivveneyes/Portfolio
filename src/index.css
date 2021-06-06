@@ -5,7 +5,7 @@
   list-style-type: none;
 }
 :root {
-  --primart-color: #0be5da;
+  --primary-color: #0be5da;
   --secondary-color: #e30d5b;
   --third-color: #e0ffff;
 }
@@ -15,6 +15,7 @@ body {
   padding: 0 10px;
 }
 
-@import "css-styles/navbar.css";
-@import "css-styles/skills-display.css";
-@import "css-styles/projects-display.css";
+@import "css-styles/homepage/navbar.css";
+@import "css-styles/homepage/skills-display.css";
+@import "css-styles/homepage/projects-display.css";
+@import "css-styles/resume/resume-body.css";

@@ -6,17 +6,24 @@ export default function Navbar() {
     <nav className="navbar-container">
       <h1 className="header-name">Joshua Garcia</h1>
       <div className="links-container">
-        <NavLink to="/Home" className="links" activeStyle={{ display: "none" }}>
-          Home
-        </NavLink>
         <NavLink
-          to="/portfolio"
+          exact
+          to="/"
           className="links"
           activeStyle={{ display: "none" }}
         >
-          My Bio
+          Home
         </NavLink>
         <NavLink
+          exact
+          to="/my-resume"
+          className="links"
+          activeStyle={{ display: "none" }}
+        >
+          My Resume
+        </NavLink>
+        <NavLink
+          exact
           to="/more-projects"
           className="links"
           activeStyle={{ display: "none" }}

@@ -29,13 +29,18 @@ const projectInformation = [
     info: "This snake game was built with HTML,CSS and JS. This project was a lot of fun, but while building I made a lot of bugs and had to debug a lot along the way.Wich inturn gave me alot of practice with the developer tool.",
   },
   {
-    title: "Project Three",
-    src: "https://motsandco.com/wp-content/uploads/avatar-1-300x300.png",
+    title: "Expense-Tracker",
+    src: "https://raw.githubusercontent.com/rivveneyes/react-expense-tracker/main/React-expense-tracker.png",
+    github: "https://github.com/rivveneyes/react-expense-tracker",
+    link: "https://react-expence-tracker.herokuapp.com/",
     info: "Ea ipsum ullamco quis incididunt nisi occaecat adipisicing id ipsum eiusmod ut est ipsum. Non velit id ipsum labore exercitation veniam culpa cupidatat velit deserunt non aute. Ullamco eu mollit duis do dolore.",
   },
   {
     title: "Project Four",
-    src: "https://motsandco.com/wp-content/uploads/avatar-1-300x300.png",
+    src: "https://raw.githubusercontent.com/rivveneyes/react-simple-recipe-project/main/Recipe%20App.png",
+    github:
+      "https://github.com/rivveneyes/react-simple-recipe-project/blob/main/README.md",
+    link: "https://recipers-app.netlify.app/",
     info: "Ea ipsum ullamco quis incididunt nisi occaecat adipisicing id ipsum eiusmod ut est ipsum. Non velit id ipsum labore exercitation veniam culpa cupidatat velit deserunt non aute. Ullamco eu mollit duis do dolore.",
   },
 ];
