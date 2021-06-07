@@ -33,14 +33,13 @@ const projectInformation = [
     src: "https://raw.githubusercontent.com/rivveneyes/react-expense-tracker/main/React-expense-tracker.png",
     github: "https://github.com/rivveneyes/react-expense-tracker",
     link: "https://react-expence-tracker.herokuapp.com/",
-    info: "Ea ipsum ullamco quis incididunt nisi occaecat adipisicing id ipsum eiusmod ut est ipsum. Non velit id ipsum labore exercitation veniam culpa cupidatat velit deserunt non aute. Ullamco eu mollit duis do dolore.",
+    info: "This expense-tracker app was build with react and includes basic bootstrap-5 styling.I found bootstrap's documentation verry easy to follow but, personally I still enjoy writing my own css.Still a great learning experience for combinding react with bootstrap and seeing how to implement them together.",
   },
   {
-    title: "Project Four",
+    title: "Recipe App",
     src: "https://raw.githubusercontent.com/rivveneyes/react-simple-recipe-project/main/Recipe%20App.png",
-    github:
-      "https://github.com/rivveneyes/react-simple-recipe-project/blob/main/README.md",
+    github: "https://github.com/rivveneyes/react-simple-recipe-project",
     link: "https://recipers-app.netlify.app/",
-    info: "Ea ipsum ullamco quis incididunt nisi occaecat adipisicing id ipsum eiusmod ut est ipsum. Non velit id ipsum labore exercitation veniam culpa cupidatat velit deserunt non aute. Ullamco eu mollit duis do dolore.",
+    info: "This recipe app was build with react and styles useing css, there is simple functionality such as adding,deleteing and editing recipes.I also added localStorage functionality along with simple media queries for responsiveness.",
   },
 ];
