@@ -3,6 +3,10 @@
   margin-top: 10px;
   padding-bottom: 5px;
 }
+.personal {
+  float: left;
+  padding-top: 15px;
+}
 .header-name {
   padding-top: 10px;
   font-size: 5rem;
