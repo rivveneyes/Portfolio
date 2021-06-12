@@ -40,6 +40,6 @@ const projectInformation = [
     src: "https://raw.githubusercontent.com/rivveneyes/react-simple-recipe-project/main/Recipe%20App.png",
     github: "https://github.com/rivveneyes/react-simple-recipe-project",
     link: "https://recipers-app.netlify.app/",
-    info: "This recipe app was build with react and styles useing css, there is simple functionality such as adding,deleteing and editing recipes.I also added localStorage functionality along with simple media queries for responsiveness.",
+    info: "This recipe app was build with react and styles using css, there is simple functionality such as adding,deleteing and editing recipes.I also added localStorage functionality along with simple media queries for responsiveness.",
   },
 ];
