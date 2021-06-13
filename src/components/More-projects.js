@@ -1,7 +1,7 @@
 import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-export default function ResumeBody() {
+export default function ProjectsBody() {
   return (
     <div className="projects-body">
       <h2 className="heading">Have A Look</h2>
@@ -11,7 +11,7 @@ export default function ResumeBody() {
             <strong>About my journey</strong>
           </span>
           <p>
-            Im a self-taught web developer aiming to become proficient in both
+              Im a self-taught web developer aiming to become proficient in both
             front and back-end web development.I've had an interest in web
             development for a few years now and have enjoyed every part about it
             from the hard to the harder. Every application I've created I try
@@ -28,16 +28,6 @@ export default function ResumeBody() {
             language.
           </p>
           <hr />
-          <p>
-            -HTML tags and their many different attributes along their inital
-            way of displaying them selves,
-            <br />
-            -CSS's many ways to go about styling some thing and how those styles
-            get interpreted in different browsers,
-            <br />
-            -JavaScript declaring variables in a function only gives you access
-            to them within the scope of that function.
-          </p>
         </section>
         <Carousel
           interval={2000}

@@ -24,15 +24,11 @@
   background-color: var(--secondary-color);
   border-radius: 5px;
 }
-.personal {
+
+.links-container {
   display: flex;
   justify-content: flex-end;
   padding-right: 10px;
-}
-.links-container {
-  float: left;
-  display: flex;
-  padding-left: 10px;
 }
 .links:active {
   border: 2px solid #000;
@@ -77,7 +73,7 @@
     padding: 0 5px;
     width: 35%;
   }
-  .personal,
+
   .links-container {
     display: block;
     padding: 0px;

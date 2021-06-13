@@ -9,6 +9,7 @@
 }
 section {
   max-width: 35%;
+  padding: 5px 8px;
   font-size: 1.3rem;
   line-height: 1.5;
 }
@@ -16,8 +17,13 @@ span {
   display: block;
   text-align: center;
 }
+section > p {
+  text-indent: 20px;
+}
 .carousel-root {
-  border: 3px solid #000;
+  width: 600px;
+  height: 500px;
+  background-color: white;
 }
 
 @media (max-width: 500px) {
@@ -26,6 +32,7 @@ span {
   }
   section {
     text-align: start;
+    padding: 10px;
   }
   section,
   .carousel-root {
@@ -35,5 +42,6 @@ span {
   .carousel-root {
     order: 1;
     border: none;
+    height: 250px;
   }
 }

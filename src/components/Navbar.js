@@ -34,22 +34,13 @@ export default function Navbar() {
           </NavLink>
           <NavLink
             exact
-            to="/my-resume"
-            className="links"
-            activeStyle={{ display: "none" }}
-          >
-            Resume
-          </NavLink>
-          <NavLink
-            exact
             to="/more-projects"
             className="links"
             activeStyle={{ display: "none" }}
           >
             More projects
           </NavLink>
-        </div>
-        <div className="personal">
+
           <a
             className="links"
             target="_blank"

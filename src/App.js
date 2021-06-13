@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import ProjectDisplay from "./components/ProjectDisplay";
-import ResumeBody from "./components/ResumeBody";
+import ProjectsBody from "./components/More-projects";
 import SkillsDisplay from "./components/SkillsDisplay";
 
 export default function App() {
@@ -16,7 +16,7 @@ export default function App() {
             <ProjectDisplay />
           </Route>
           <Route exact path="/more-projects">
-            <ResumeBody />
+            <ProjectsBody />
           </Route>
         </Switch>
       </Router>
