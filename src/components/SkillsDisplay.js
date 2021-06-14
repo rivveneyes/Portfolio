@@ -11,17 +11,18 @@ export default function SkillsDisplay() {
           </li>
           <li>-HTML</li>
           <li>-CSS</li>
-          <li>-Java Scipt</li>
+          <li>-JavaScript</li>
           <li>-REACT 'library'</li>
         </ol>
         <ol className="list-3">
           <li>
-            <b>Familair With:</b>
+            <b>Worked With:</b>
           </li>
           <li>-Git</li>
+          <li>-Github</li>
           <li>-Linux</li>
           <li>-Boot-strap</li>
-          <li>-Java Scipt libraries</li>
+          <li>-JavaScript libraries</li>
           <li>-API</li>
         </ol>
         <ol className="list-2">
