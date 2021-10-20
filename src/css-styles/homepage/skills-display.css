@@ -1,4 +1,6 @@
 .skills-container {
+  padding-bottom: 30px;
+  margin-bottom: 130px;
   background-color: var(--third-color);
 }
 .heading {

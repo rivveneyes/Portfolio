@@ -1,9 +1,9 @@
 .projects-container {
   display: grid;
   grid-template-columns: auto auto;
-  background-color: var(--third-color);
-  grid-gap: 10px;
-  padding: 20px 60px 10px;
+  grid-gap: 100px;
+  width: 75%;
+  margin: auto;
 }
 
 .project-card {

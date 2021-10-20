@@ -4,30 +4,19 @@ import { Carousel } from "react-responsive-carousel";
 export default function ProjectsBody() {
   return (
     <div className="projects-body">
-      <h2 className="heading">Have A Look</h2>
+      <h2 className="heading morepage-heading">Have A Look</h2>
       <div className="flex-content">
         <section>
-          <span>
-            <strong>About my journey</strong>
-          </span>
+          <h1>A little About Me</h1>
+
           <p>
-              Im a self-taught web developer aiming to become proficient in both
-            front and back-end web development.I've had an interest in web
-            development for a few years now and have enjoyed every part about it
-            from the hard to the harder. Every application I've created I try
-            challenge my self along with writing efficient and 'readable
-            code',not just creating spaghetti code.Some days my favorite thing
-            is writing CSS for a static website I made.Other days I'll add
-            another piece of functionality to one of my apps.Steping into
-            learning the react library has been a huge exploration, just
-            changing the way I think about building some thing.From reuseable
-            components to handling state and especially understanding react's
-            life-cycle methods. This is my passion I chose this over many others
-            things to do in my day to day ever since my first 'HELLO WORLD' in
-            HTML I've been hooked,learning all the interesting quirks in every
-            language.
+            Im a self-taught web developer who grew up on a computer, over time
+            I would wonder how every thing works together from images and styles
+            to how every one can interact with each other. I'm at the point now
+            were I pursue that information day by day.It start with a
+            &#10094;HELLO WORLD &#10095; in HTML and will never end, I try to
+            know some thing I didnt know yesterday.
           </p>
-          <hr />
         </section>
         <Carousel
           interval={2000}
