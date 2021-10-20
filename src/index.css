@@ -5,14 +5,14 @@
   list-style-type: none;
 }
 :root {
-  --primary-color: #0be5da;
-  --secondary-color: #e30d5b;
-  --third-color: #e0ffff;
+  --primary-color: #43e7df;
+  --secondary-color: #3e77e2;
+  --third-color: #c4f8f8;
 }
 body {
   height: 100%;
   width: 100%;
-  padding: 0 10px;
+  background-color: var(--primary-color);
 }
 @media (max-width: 500px) {
   body {
@@ -23,4 +23,4 @@ body {
 @import "css-styles/homepage/navbar.css";
 @import "css-styles/homepage/skills-display.css";
 @import "css-styles/homepage/projects-display.css";
-@import "css-styles/more-projects/projects-body.css";
+/* @import "css-styles/more-projects/projects-body.css";  */

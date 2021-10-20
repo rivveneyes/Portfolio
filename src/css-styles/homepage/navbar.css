@@ -2,6 +2,7 @@
   background-color: var(--primary-color);
   margin-top: 10px;
   padding-bottom: 5px;
+  border-bottom: 3px solid black;
   position: relative;
 }
 .header-name {
