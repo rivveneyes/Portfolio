@@ -1,3 +1,10 @@
+.project-title {
+  display: block;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
 .projects-container {
   display: grid;
   grid-template-columns: auto auto;
@@ -11,7 +18,7 @@
   min-width: 40%;
   height: 100%;
   margin: auto;
-  background-color: var(--secondary-color);
+  background-color: rgba(163, 197, 240, 0.816);
   border: 5px solid #000;
   text-align: center;
 }

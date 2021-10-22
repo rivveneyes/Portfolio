@@ -30,6 +30,7 @@ section > p {
   width: 600px;
   height: 500px;
   background-color: white;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 500px) {

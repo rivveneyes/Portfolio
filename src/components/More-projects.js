@@ -11,11 +11,11 @@ export default function ProjectsBody() {
 
           <p>
             Im a self-taught web developer who grew up on a computer, over time
-            I would wonder how every thing works together from images and styles
-            to how every one can interact with each other. I'm at the point now
-            were I pursue that information day by day.It start with a
-            &#10094;HELLO WORLD &#10095; in HTML and will never end, I try to
-            know some thing I didnt know yesterday.
+            I would wonder how every thing works together from website to the
+            dynamic data they display. I'm at the point now were I pursue that
+            information day by day.It start with a &#10094;HELLO WORLD &#10095;
+            in HTML and will never end, I try to know some thing I didnt know
+            yesterday.
           </p>
         </section>
         <Carousel

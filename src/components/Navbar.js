@@ -38,7 +38,7 @@ export default function Navbar() {
             className="links"
             activeStyle={{ display: "none" }}
           >
-            More projects
+            About Me
           </NavLink>
 
           <a
