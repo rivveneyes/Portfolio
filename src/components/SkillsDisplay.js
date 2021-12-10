@@ -9,10 +9,10 @@ export default function SkillsDisplay() {
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
+          <li>jquery</li>
           <li>REACT</li>
           <li>Github</li>
           <li>Git</li>
-          <li>Github</li>
           <li>Linux</li>
           <li>Boot-strap</li>
           <li>JavaScript libraries</li>

@@ -23,6 +23,13 @@ const projectInformation = [
     info: "This project was built with 'React library' and using github's API.Project may take a moment to spin up",
   },
   {
+    title: "Social",
+    src: "https://github.com/rivveneyes/social-media/blob/main/social.png?raw=true",
+    github: "https://github.com/rivveneyes/social-media/tree/main",
+    link: "https://rivveneyes.github.io/social-media/",
+    info: "This was a rough coppy of a facebook home page.The main purpose of this project was to work with js/jquery and scss.",
+  },
+  {
     title: "Expense-Tracker",
     src: "https://raw.githubusercontent.com/rivveneyes/react-expense-tracker/main/React-expense-tracker.png",
     github: "https://github.com/rivveneyes/react-expense-tracker",
@@ -35,12 +42,5 @@ const projectInformation = [
     github: "https://github.com/rivveneyes/news-page/tree/main",
     link: "https://rivveneyes.github.io/news-page/",
     info: "This was a mockup news letter site created in html,css.",
-  },
-  {
-    title: "Snake Game",
-    src: "https://raw.githubusercontent.com/rivveneyes/SNAKE-GAME/main/Snake-Game.png",
-    github: "https://github.com/rivveneyes/SNAKE-GAME",
-    link: "https://rivveneyes.github.io/SNAKE-GAME/",
-    info: "A common snake game app which incluse a score bored and personal css stlying",
   },
 ];
